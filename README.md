@@ -1,2 +1,2 @@
 # SudokuChecker
-Multithreaded sudoku checker in C.
+Multithreaded Sudoku checker in C.
