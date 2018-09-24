@@ -179,7 +179,7 @@ int main() {
     pthread_t threads[NUM_CHILD_THREADS];
     pthread_attr_t attr[NUM_CHILD_THREADS];
     FILE *ifp;
-    char inputFile[] = "/home/dengbers/Homework2/correctSudoku.txt";
+    char inputFile[] = "/path/of/file/here/correctSudoku.txt";
     int exitCode, subgridCounter;
     pthread_t parentID;
 
